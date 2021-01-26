@@ -1,7 +1,8 @@
-### Hi there, I'm José Arriaga 👋
+### Hi there 👋
 
-<!--
-**Jose-cod7/Jose-cod7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm José Arriaga from México. I really enjoy learning languages and frameworks like React and I'm learning Vue.js. But I'm a backend guy, I like optimizing code performance and dealing with data,  I felt like the logic flow of the backend is easy to me.
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jose-cod7)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
