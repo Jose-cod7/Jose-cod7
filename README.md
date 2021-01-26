@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-I'm José Arriaga from México. I really enjoy learning languages and frameworks like React and I'm learning Vue.js. But I'm a backend guy, I like optimizing code performance and dealing with data,  I felt like the logic flow of the backend is easy to me.
+I'm José Arriaga from México. I really enjoy learning languages and frameworks like React and I'm also learning Vue.js. But I'm a backend guy, I like optimizing code performance and dealing with data, I felt like the logic flow of the backend is easy to me.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jose-cod7)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
