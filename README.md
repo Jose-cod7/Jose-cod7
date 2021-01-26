@@ -1,13 +1,15 @@
-
-### Hi there 👋, my name is José
+## Hi there 👋, my name is José
 #### Junior web developer
-![Junior web developer]
+
 
 I'm José Arriaga from México. I really enjoy learning languages and frameworks like React and I'm also learning Vue.js. But I'm a backend guy, I like optimizing code performance and dealing with data, I felt like the logic flow of the backend is easy to me.
 
 Skills: REACT / JS / HTML / CSS / NODE.JS
 
 - 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Jose-cod7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Jose Arriaga Mendez/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/pepearriaga7/)  
 
 
 
