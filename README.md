@@ -1,6 +1,18 @@
-### Hi there 👋
+
+### Hi there 👋, my name is José
+#### Junior web developer
+![Junior web developer]
 
 I'm José Arriaga from México. I really enjoy learning languages and frameworks like React and I'm also learning Vue.js. But I'm a backend guy, I like optimizing code performance and dealing with data, I felt like the logic flow of the backend is easy to me.
+
+Skills: REACT / JS / HTML / CSS / NODE.JS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jose-cod7)](https://github.com/anuraghazra/github-readme-stats)
 
