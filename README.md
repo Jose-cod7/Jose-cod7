@@ -31,7 +31,7 @@ I'm José Arriaga from México. I really enjoy learning languages and frameworks
 
 ### Social media
 
-[#FFFFFF][<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg'  alt='linkedin' height='40'>](https://www.linkedin.com/in/jose-arriaga-mendez-27970386/) 
+![#FFFFFF] [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg'  alt='linkedin' height='40'>](https://www.linkedin.com/in/jose-arriaga-mendez-27970386/) 
 
 <!--
 Here are some ideas to get you started:
