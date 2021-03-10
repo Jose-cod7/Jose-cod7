@@ -4,6 +4,8 @@
 
 I'm José Arriaga from México. I really enjoy learning languages and frameworks like React and I'm also learning Vue.js. But I'm a backend guy, I like optimizing code performance and dealing with data.
 
+Programmer specialized in web development using multiple tools, frameworks and libraries both in frontend and backend. 
+
 ## Languages and tools: 
 
   * <code><img height="20" src="https://raw.githubusercontent.com/Jose-cod7/Jose-cod7/main/230px-HTML5_logo_and_wordmark.svg.png"></code> HTML
@@ -13,16 +15,21 @@ I'm José Arriaga from México. I really enjoy learning languages and frameworks
   * <code><img height="20" src="https://raw.githubusercontent.com/Jose-cod7/Jose-cod7/main/boostrap.png"></code> Boostrap
   * <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> NODE.JS
   * <code><img height="20" src= "https://raw.githubusercontent.com/Jose-cod7/Jose-cod7/main/postgressql.svg"></code> PostgresSql
-  * 
+  * <code><img height="20" src= "https://raw.githubusercontent.com/Jose-cod7/Jose-cod7/main/JWT.png"></code> Json Web Token
+  * <code><img height="20" src= "https://raw.githubusercontent.com/Jose-cod7/Jose-cod7/main/NPM.png"></code> npm
+  * <code><img height="20" src= "https://raw.githubusercontent.com/Jose-cod7/Jose-cod7/main/VSCODE.png"></code> Visual Studio Code
+  * <code><img height="20" src= "https://raw.githubusercontent.com/Jose-cod7/Jose-cod7/main/github-mark.png"></code> GitHub
 
 
-earth_africa Deployment platforms:
+Deployment platforms:
  <code><img height="20" src= "https://raw.githubusercontent.com/Jose-cod7/Jose-cod7/main/HEROKU.jpeg"></code>
  
 - 🔭 I’m currently working on this page. 
  
  
+## Soft Skill
 
+Adaptability, Creativity, Self-Criticism, Communication, Accountability, Teamwork, Empathy, Patience.
 
 
 
@@ -37,7 +44,7 @@ earth_africa Deployment platforms:
 </p>
 
 ### Social media
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg'  alt='linkedin' height='40'>](https://www.linkedin.com/in/jose-arriaga-mendez-27970386/) </code>
+ [<img src='https://raw.githubusercontent.com/Jose-cod7/Jose-cod7/main/link.png'  alt='linkedin' height='40'>](https://www.linkedin.com/in/jose-arriaga-mendez-27970386/) </code>
 
 <!--
 Here are some ideas to get you started:
