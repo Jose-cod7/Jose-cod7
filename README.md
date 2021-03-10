@@ -4,7 +4,7 @@
 
 I'm José Arriaga from México. I really enjoy learning languages and frameworks like React and I'm also learning Vue.js. But I'm a backend guy, I like optimizing code performance and dealing with data.
 
-## Laungages and tools: 
+## Languages and tools: 
 
   * <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"></code> HTML / CSS 
   * <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> REACT
@@ -31,7 +31,7 @@ I'm José Arriaga from México. I really enjoy learning languages and frameworks
 
 ### Social media
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jose-arriaga-mendez-27970386//) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' color="white" alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jose-arriaga-mendez-27970386//) 
 
 <!--
 Here are some ideas to get you started:
