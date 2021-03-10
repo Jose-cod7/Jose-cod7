@@ -25,7 +25,7 @@ Programmer specialized in web development using multiple tools, frameworks and l
 Deployment platforms:
  <code><img height="20" src= "https://raw.githubusercontent.com/Jose-cod7/Jose-cod7/main/HEROKU.jpeg"></code>
  
-- 🔭 I’m currently working on web development, developing a web page to  <a hrf="https://openculturalcenter.org/es/">OCC<a>
+- 🔭 I’m currently working on web development, developing a web page to  [OCC](https://openculturalcenter.org/es/)
  
  
 ## Soft Skill
