@@ -4,7 +4,9 @@
 
 I'm José Arriaga from México. I really enjoy learning languages and frameworks like React and I'm also learning Vue.js. But I'm a backend guy, I like optimizing code performance and dealing with data.
 
-Skills: REACT / JS / HTML / CSS / NODE.JS
+## Skills and experience 
+  * ⚛ REACT
+  *  JS / HTML / CSS / NODE.JS
 
 - 🔭 I’m currently working on this page. 
  
