@@ -45,8 +45,8 @@ Adaptability, Creativity, Self-Criticism, Communication, Accountability, Teamwor
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-cod7&bg_color=071A2C&text_color=FFFFFF" alt="José's top langs"/>
 </p>
 
-### Social media
-# - 📫 How to reach me:
+## Social media
+### - 📫 How to reach me:
  [<img src='https://raw.githubusercontent.com/Jose-cod7/Jose-cod7/main/link.png'  alt='linkedin' height='40'>](https://www.linkedin.com/in/jose-arriaga-mendez-27970386/) </code>
 
 <!--
