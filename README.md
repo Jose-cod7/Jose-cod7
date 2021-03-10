@@ -2,7 +2,7 @@
 #### Junior web developer
 
 
-I'm José Arriaga from México. I really enjoy learning languages and frameworks like React and I'm also learning Vue.js. But I'm a backend guy, I like optimizing code performance and dealing with data.
+I'm José Arriaga from México. I really enjoy learning languages and frameworks like React and I'm also learning Vue.js But I'm a backend guy, I like optimizing code performance and dealing with data.
 
 Programmer specialized in web development using multiple tools, frameworks and libraries both in frontend and backend. 
 
@@ -23,10 +23,11 @@ Programmer specialized in web development using multiple tools, frameworks and l
 
 
 Deployment platforms:
+
  <code><img height="20" src= "https://raw.githubusercontent.com/Jose-cod7/Jose-cod7/main/HEROKU.jpeg"></code>
  
 - 🔭 I’m currently working on web development, developing a web page to  [OCC](https://openculturalcenter.org/es/)
- 
+- 🌱 I’m currently learning (**C#**), (**Vue.js**)
  
 ## Soft Skill
 
@@ -45,6 +46,7 @@ Adaptability, Creativity, Self-Criticism, Communication, Accountability, Teamwor
 </p>
 
 ### Social media
+## - 📫 How to reach me:
  [<img src='https://raw.githubusercontent.com/Jose-cod7/Jose-cod7/main/link.png'  alt='linkedin' height='40'>](https://www.linkedin.com/in/jose-arriaga-mendez-27970386/) </code>
 
 <!--
