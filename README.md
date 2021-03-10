@@ -10,11 +10,15 @@ I'm José Arriaga from México. I really enjoy learning languages and frameworks
   * <code><img height="20" src="https://raw.githubusercontent.com/Jose-cod7/Jose-cod7/main/css.png"></code> CSS
   * <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> React
   * <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> JS
-  * * <code><img height="20" src="https://raw.githubusercontent.com/Jose-cod7/Jose-cod7/main/boostrap.png"></code> Boostrap
+  * <code><img height="20" src="https://raw.githubusercontent.com/Jose-cod7/Jose-cod7/main/boostrap.png"></code> Boostrap
   * <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> NODE.JS
   * <code><img height="20" src= "https://raw.githubusercontent.com/Jose-cod7/Jose-cod7/main/postgressql.svg"></code> PostgresSql
   * 
 
+
+earth_africa Deployment platforms:
+ <code><img height="20" src= "https://raw.githubusercontent.com/Jose-cod7/Jose-cod7/main/HEROKU.jpeg"></code>
+ 
 - 🔭 I’m currently working on this page. 
  
  
