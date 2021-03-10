@@ -14,7 +14,7 @@ Programmer specialized in web development using multiple tools, frameworks and l
   * <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> JS
   * <code><img height="20" src="https://raw.githubusercontent.com/Jose-cod7/Jose-cod7/main/boostrap.png"></code> Boostrap
   * <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> NODE.JS
-  * <code><img height="20" src="https://raw.githubusercontent.com/Jose-cod7/Jose-cod7/main/st%2Csmall%2C507x507-pad%2C600x600%2Cf8f8f8.u2.jpg"></code>
+  * <code><img height="20" src="https://raw.githubusercontent.com/Jose-cod7/Jose-cod7/main/st%2Csmall%2C507x507-pad%2C600x600%2Cf8f8f8.u2.jpg"></code> Express.Js
   * <code><img height="20" src= "https://raw.githubusercontent.com/Jose-cod7/Jose-cod7/main/postgressql.svg"></code> PostgresSql
   * <code><img height="20" src= "https://raw.githubusercontent.com/Jose-cod7/Jose-cod7/main/JWT.png"></code> Json Web Token
   * <code><img height="20" src= "https://raw.githubusercontent.com/Jose-cod7/Jose-cod7/main/NPM.png"></code> npm
@@ -46,7 +46,7 @@ Adaptability, Creativity, Self-Criticism, Communication, Accountability, Teamwor
 </p>
 
 ### Social media
-## - 📫 How to reach me:
+# - 📫 How to reach me:
  [<img src='https://raw.githubusercontent.com/Jose-cod7/Jose-cod7/main/link.png'  alt='linkedin' height='40'>](https://www.linkedin.com/in/jose-arriaga-mendez-27970386/) </code>
 
 <!--
