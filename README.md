@@ -6,7 +6,8 @@ I'm José Arriaga from México. I really enjoy learning languages and frameworks
 
 ## Languages and tools: 
 
-  * <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"></code> HTML / CSS 
+  * <code><img height="20" src="https://raw.githubusercontent.com/Jose-cod7/Jose-cod7/main/230px-HTML5_logo_and_wordmark.svg.png"></code> HTML
+  * <code><img height="20" src="https://raw.githubusercontent.com/Jose-cod7/Jose-cod7/main/230px-HTML5_logo_and_wordmark.svg.png"></code> CSS
   * <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> REACT
   * <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> JS 
   * <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> NODE.JS
