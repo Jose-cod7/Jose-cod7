@@ -2,7 +2,7 @@
 #### Junior web developer
 
 
-I'm José Arriaga from México. Iḿ a junior fullstack developerI really enjoy learning languages and frameworks like React and I'm also learning Vue.js. But I'm a backend guy, I like optimizing code performance and dealing with data.
+I'm José Arriaga from México. I really enjoy learning languages and frameworks like React and I'm also learning Vue.js. But I'm a backend guy, I like optimizing code performance and dealing with data.
 
 Skills: REACT / JS / HTML / CSS / NODE.JS
 
@@ -12,9 +12,13 @@ Skills: REACT / JS / HTML / CSS / NODE.JS
 
 
 
+## My GitHub stats
 
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jose-cod7&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="José's github stats"/>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jose-cod7)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-cod7&bg_color=071A2C&text_color=FFFFFF" alt="José's top langs"/>
+</p>
 
 <!--
 Here are some ideas to get you started:
