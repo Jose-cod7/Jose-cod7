@@ -5,12 +5,18 @@
 I'm José Arriaga from México. I really enjoy learning languages and frameworks like React and I'm also learning Vue.js. But I'm a backend guy, I like optimizing code performance and dealing with data.
 
 ## Skills and experience 
-  * ![image](https://user-images.githubusercontent.com/61738700/110636257-59730400-81ac-11eb-9bc5-3f904887e35d.png)
- REACT
-  *  JS / HTML / CSS / NODE.JS
+
+  * HTML / CSS 
+  * <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> REACT
+  * <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> JS 
+  * <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> NODE.JS
+  *   
 
 - 🔭 I’m currently working on this page. 
  
+ 
+
+
 
 
 
