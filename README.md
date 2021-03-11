@@ -21,11 +21,10 @@ Programmer specialized in web development using multiple tools, frameworks and l
   * <code><img height="20" src= "https://raw.githubusercontent.com/Jose-cod7/Jose-cod7/main/VSCODE.png"></code> Visual Studio Code
   * <code><img height="20" src= "https://raw.githubusercontent.com/Jose-cod7/Jose-cod7/main/github-mark.png"></code> GitHub
 
-
 Deployment platforms:
 
  <code><img height="20" src= "https://raw.githubusercontent.com/Jose-cod7/Jose-cod7/main/HEROKU.jpeg"></code>
- 
+ ####
 - 🔭 I’m currently working on web development, developing a web page to  [OCC](https://openculturalcenter.org/es/)
 - 🌱 I’m currently learning (**C#**), (**Vue.js**)
  
@@ -33,8 +32,8 @@ Deployment platforms:
 
 Adaptability, Creativity, Self-Criticism, Communication, Accountability, Teamwork, Empathy, Patience.
 
-
-
+## Learning path trophy :trophy:
+[Full-stack bootcamp Migracode](https://migracode.openculturalcenter.org/our-courses/) 2020
 
 
 ## My GitHub stats
