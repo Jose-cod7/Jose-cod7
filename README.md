@@ -32,7 +32,7 @@ Deployment platforms:
 
 Adaptability, Creativity, Self-Criticism, Communication, Accountability, Teamwork, Empathy, Patience.
 
-## Learning path trophy :trophy:
+## Learning path  :trophy:
 [Full-stack bootcamp Migracode](https://migracode.openculturalcenter.org/our-courses/) 2020
 
 
@@ -50,6 +50,8 @@ Adaptability, Creativity, Self-Criticism, Communication, Accountability, Teamwor
 
 <!--
 Here are some ideas to get you started:
+
+emojis search for shortcode
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
