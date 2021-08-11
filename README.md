@@ -2,7 +2,7 @@
 #### Junior web developer
 
 
-I'm José Arriaga from México. I really enjoy learning languages and frameworks like React and I'm also learning Vue.js But I'm a backend guy, I like optimizing code performance and dealing with data.
+I'm José Arriaga from México. I really enjoy learning languages and frameworks like React. But I'm a backend guy, I like optimizing code performance and dealing with data.
 
 Programmer specialized in web development using multiple tools, frameworks and libraries both in frontend and backend. 
 
