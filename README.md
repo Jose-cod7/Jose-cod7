@@ -25,8 +25,8 @@ Deployment platforms:
 
  <code><img height="20" src= "https://raw.githubusercontent.com/Jose-cod7/Jose-cod7/main/HEROKU.jpeg"></code>
  ####
-- 🔭 I’m currently working on web development, developing a web page to  [OCC](https://openculturalcenter.org/es/)
-- 🌱 I’m currently learning (**C#**), (**Vue.js**)
+- 🔭 I’m currently working on backend development, 
+- 🌱 I’m currently learning (**Java**), (**AWS**)
  
 ## Soft Skill
 
