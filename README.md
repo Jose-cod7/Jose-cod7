@@ -1,39 +1,5 @@
 ## Hi there 👋, my name is José
-#### Junior web developer
 
-
-I'm José Arriaga from México. I really enjoy learning languages and frameworks like React. But I'm a backend guy, I like optimizing code performance and dealing with data.
-
-Programmer specialized in web development using multiple tools, frameworks and libraries both in frontend and backend. 
-
-## Languages and tools: 
-
-  * <code><img height="20" src="https://raw.githubusercontent.com/Jose-cod7/Jose-cod7/main/230px-HTML5_logo_and_wordmark.svg.png"></code> HTML
-  * <code><img height="20" src="https://raw.githubusercontent.com/Jose-cod7/Jose-cod7/main/css.png"></code> CSS
-  * <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> React
-  * <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> JS
-  * <code><img height="20" src="https://raw.githubusercontent.com/Jose-cod7/Jose-cod7/main/boostrap.png"></code> Boostrap
-  * <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> NODE.JS
-  * <code><img height="20" src="https://raw.githubusercontent.com/Jose-cod7/Jose-cod7/main/st%2Csmall%2C507x507-pad%2C600x600%2Cf8f8f8.u2.jpg"></code> Express.Js
-  * <code><img height="20" src= "https://raw.githubusercontent.com/Jose-cod7/Jose-cod7/main/postgressql.svg"></code> PostgresSql
-  * <code><img height="20" src= "https://raw.githubusercontent.com/Jose-cod7/Jose-cod7/main/JWT.png"></code> Json Web Token
-  * <code><img height="20" src= "https://raw.githubusercontent.com/Jose-cod7/Jose-cod7/main/NPM.png"></code> npm
-  * <code><img height="20" src= "https://raw.githubusercontent.com/Jose-cod7/Jose-cod7/main/VSCODE.png"></code> Visual Studio Code
-  * <code><img height="20" src= "https://raw.githubusercontent.com/Jose-cod7/Jose-cod7/main/github-mark.png"></code> GitHub
-
-Deployment platforms:
-
- <code><img height="20" src= "https://raw.githubusercontent.com/Jose-cod7/Jose-cod7/main/HEROKU.jpeg"></code>
- ####
-- 🔭 I’m currently working on backend development, 
-- 🌱 I’m currently learning (**Java**), (**AWS**)
- 
-## Soft Skill
-
-Adaptability, Creativity, Self-Criticism, Communication, Accountability, Teamwork, Empathy, Patience.
-
-## Learning path  :trophy:
-[Full-stack bootcamp Migracode](https://migracode.openculturalcenter.org/our-courses/) 2020
 
 
 ## My GitHub stats
